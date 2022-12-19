@@ -11,7 +11,6 @@ public class operadores {
 String concatenacao ="?"; 
 
 concatenacao = 1+1+1+"1";
-
 concatenacao = 1+"1"+1+1;
 
 concatenacao = 1+"1"+1+"1";
